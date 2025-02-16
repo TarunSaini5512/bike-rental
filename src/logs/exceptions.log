@@ -1,0 +1,2501 @@
+2025-02-04 09:53:19 [ERROR]: Error: accountSid must start with AC
+    at Twilio.setAccountSid (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/twilio/lib/base/BaseTwilio.js:82:23)
+    at new Client (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/twilio/lib/base/BaseTwilio.js:45:18)
+    at new Twilio (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/twilio/lib/rest/Twilio.js:33:9)
+    at TwilioSDK (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/twilio/lib/index.js:43:12)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/sms/sms.services.js:4:16)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+2025-02-04 09:54:03 [ERROR]: Error: accountSid must start with AC
+    at Twilio.setAccountSid (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/twilio/lib/base/BaseTwilio.js:82:23)
+    at new Client (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/twilio/lib/base/BaseTwilio.js:45:18)
+    at new Twilio (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/twilio/lib/rest/Twilio.js:33:9)
+    at TwilioSDK (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/twilio/lib/index.js:43:12)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/sms/sms.services.js:4:16)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+2025-02-04 09:54:11 [ERROR]: Error: accountSid must start with AC
+    at Twilio.setAccountSid (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/twilio/lib/base/BaseTwilio.js:82:23)
+    at new Client (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/twilio/lib/base/BaseTwilio.js:45:18)
+    at new Twilio (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/twilio/lib/rest/Twilio.js:33:9)
+    at TwilioSDK (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/twilio/lib/index.js:43:12)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/sms/sms.services.js:4:16)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+2025-02-04 09:54:52 [ERROR]: ReferenceError: signup is not defined
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js:361:5)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js:2:24)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+2025-02-04 09:55:35 [ERROR]: ReferenceError: signup is not defined
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js:361:5)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js:2:24)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+2025-02-04 09:56:40 [ERROR]: ReferenceError: signup is not defined
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js:361:5)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js:2:24)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+2025-02-04 09:57:04 [ERROR]: Error: accountSid must start with AC
+    at Twilio.setAccountSid (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/twilio/lib/base/BaseTwilio.js:82:23)
+    at new Client (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/twilio/lib/base/BaseTwilio.js:45:18)
+    at new Twilio (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/twilio/lib/rest/Twilio.js:33:9)
+    at TwilioSDK (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/twilio/lib/index.js:43:12)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/sms/sms.services.js:4:16)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+2025-02-04 09:58:13 [ERROR]: Error: accountSid must start with AC
+    at Twilio.setAccountSid (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/twilio/lib/base/BaseTwilio.js:82:23)
+    at new Client (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/twilio/lib/base/BaseTwilio.js:45:18)
+    at new Twilio (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/twilio/lib/rest/Twilio.js:33:9)
+    at TwilioSDK (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/twilio/lib/index.js:43:12)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/sms/sms.services.js:4:16)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+2025-02-04 09:59:05 [ERROR]: Error: accountSid must start with AC
+    at Twilio.setAccountSid (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/twilio/lib/base/BaseTwilio.js:82:23)
+    at new Client (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/twilio/lib/base/BaseTwilio.js:45:18)
+    at new Twilio (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/twilio/lib/rest/Twilio.js:33:9)
+    at TwilioSDK (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/twilio/lib/index.js:43:12)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/sms/sms.services.js:4:16)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+2025-02-04 09:59:10 [ERROR]: Error: accountSid must start with AC
+    at Twilio.setAccountSid (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/twilio/lib/base/BaseTwilio.js:82:23)
+    at new Client (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/twilio/lib/base/BaseTwilio.js:45:18)
+    at new Twilio (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/twilio/lib/rest/Twilio.js:33:9)
+    at TwilioSDK (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/twilio/lib/index.js:43:12)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/sms/sms.services.js:4:16)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+2025-02-04 09:59:33 [ERROR]: Error: accountSid must start with AC
+    at Twilio.setAccountSid (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/twilio/lib/base/BaseTwilio.js:82:23)
+    at new Client (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/twilio/lib/base/BaseTwilio.js:45:18)
+    at new Twilio (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/twilio/lib/rest/Twilio.js:33:9)
+    at TwilioSDK (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/twilio/lib/index.js:43:12)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/sms/sms.services.js:4:16)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+2025-02-04 09:59:44 [ERROR]: Error: accountSid must start with AC
+    at Twilio.setAccountSid (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/twilio/lib/base/BaseTwilio.js:82:23)
+    at new Client (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/twilio/lib/base/BaseTwilio.js:45:18)
+    at new Twilio (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/twilio/lib/rest/Twilio.js:33:9)
+    at TwilioSDK (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/twilio/lib/index.js:43:12)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/sms/sms.services.js:4:16)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+2025-02-04 10:02:21 [ERROR]: Error: accountSid must start with AC
+    at Twilio.setAccountSid (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/twilio/lib/base/BaseTwilio.js:82:23)
+    at new Client (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/twilio/lib/base/BaseTwilio.js:45:18)
+    at new Twilio (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/twilio/lib/rest/Twilio.js:33:9)
+    at TwilioSDK (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/twilio/lib/index.js:43:12)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/sms/sms.services.js:4:16)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+2025-02-04 10:02:41 [ERROR]: Error: accountSid must start with AC
+    at Twilio.setAccountSid (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/twilio/lib/base/BaseTwilio.js:82:23)
+    at new Client (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/twilio/lib/base/BaseTwilio.js:45:18)
+    at new Twilio (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/twilio/lib/rest/Twilio.js:33:9)
+    at TwilioSDK (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/twilio/lib/index.js:43:12)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/sms/sms.services.js:4:16)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+2025-02-04 10:02:43 [ERROR]: Error: accountSid must start with AC
+    at Twilio.setAccountSid (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/twilio/lib/base/BaseTwilio.js:82:23)
+    at new Client (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/twilio/lib/base/BaseTwilio.js:45:18)
+    at new Twilio (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/twilio/lib/rest/Twilio.js:33:9)
+    at TwilioSDK (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/twilio/lib/index.js:43:12)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/sms/sms.services.js:4:16)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+2025-02-04 10:02:47 [ERROR]: Error: accountSid must start with AC
+    at Twilio.setAccountSid (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/twilio/lib/base/BaseTwilio.js:82:23)
+    at new Client (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/twilio/lib/base/BaseTwilio.js:45:18)
+    at new Twilio (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/twilio/lib/rest/Twilio.js:33:9)
+    at TwilioSDK (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/twilio/lib/index.js:43:12)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/sms/sms.services.js:4:16)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+2025-02-04 10:02:51 [ERROR]: Error: accountSid must start with AC
+    at Twilio.setAccountSid (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/twilio/lib/base/BaseTwilio.js:82:23)
+    at new Client (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/twilio/lib/base/BaseTwilio.js:45:18)
+    at new Twilio (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/twilio/lib/rest/Twilio.js:33:9)
+    at TwilioSDK (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/twilio/lib/index.js:43:12)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/sms/sms.services.js:4:16)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+2025-02-04 10:03:01 [ERROR]: Error: accountSid must start with AC
+    at Twilio.setAccountSid (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/twilio/lib/base/BaseTwilio.js:82:23)
+    at new Client (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/twilio/lib/base/BaseTwilio.js:45:18)
+    at new Twilio (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/twilio/lib/rest/Twilio.js:33:9)
+    at TwilioSDK (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/twilio/lib/index.js:43:12)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/sms/sms.services.js:4:16)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+2025-02-04 10:36:32 [ERROR]: Error: Cannot find module '../sms/sms.services'
+Require stack:
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/index.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/app.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+    at Module._load (node:internal/modules/cjs/loader:981:27)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js:10:20)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+2025-02-04 10:38:17 [ERROR]: Error: Cannot find module '../config/config'
+Require stack:
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/index.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/app.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+    at Module._load (node:internal/modules/cjs/loader:981:27)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+2025-02-04 10:38:28 [ERROR]: Error: Cannot find module '../config/config'
+Require stack:
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/index.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/app.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+    at Module._load (node:internal/modules/cjs/loader:981:27)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+2025-02-04 10:40:58 [ERROR]: Error: Cannot find module '../config/config'
+Require stack:
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/index.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/app.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+    at Module._load (node:internal/modules/cjs/loader:981:27)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+2025-02-04 10:41:57 [ERROR]: Error: Cannot find module '../config/config'
+Require stack:
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/index.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/app.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+    at Module._load (node:internal/modules/cjs/loader:981:27)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+2025-02-04 10:42:24 [ERROR]: Error: Cannot find module '../config/config'
+Require stack:
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/index.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/app.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+    at Module._load (node:internal/modules/cjs/loader:981:27)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+2025-02-04 10:42:27 [ERROR]: Error: Cannot find module '../config/config'
+Require stack:
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/index.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/app.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+    at Module._load (node:internal/modules/cjs/loader:981:27)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+2025-02-04 10:42:38 [ERROR]: Error: Cannot find module '../config/config'
+Require stack:
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/index.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/app.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+    at Module._load (node:internal/modules/cjs/loader:981:27)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+2025-02-04 10:42:56 [ERROR]: Error: Cannot find module '../config/config'
+Require stack:
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/index.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/app.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+    at Module._load (node:internal/modules/cjs/loader:981:27)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+2025-02-04 10:43:07 [ERROR]: Error: Cannot find module '../config/config'
+Require stack:
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/index.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/app.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+    at Module._load (node:internal/modules/cjs/loader:981:27)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+2025-02-04 10:43:09 [ERROR]: Error: Cannot find module '../config/config'
+Require stack:
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/index.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/app.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+    at Module._load (node:internal/modules/cjs/loader:981:27)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+2025-02-04 10:43:12 [ERROR]: Error: Cannot find module '../config/config'
+Require stack:
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/index.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/app.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+    at Module._load (node:internal/modules/cjs/loader:981:27)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+2025-02-04 10:43:32 [ERROR]: Error: Cannot find module '../config/config'
+Require stack:
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/index.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/app.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+    at Module._load (node:internal/modules/cjs/loader:981:27)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+2025-02-04 10:43:36 [ERROR]: Error: Cannot find module '../config/config'
+Require stack:
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/index.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/app.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+    at Module._load (node:internal/modules/cjs/loader:981:27)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+2025-02-04 10:44:36 [ERROR]: Error: Cannot find module '../config/config'
+Require stack:
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/index.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/app.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+    at Module._load (node:internal/modules/cjs/loader:981:27)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+2025-02-04 10:45:25 [ERROR]: Error: Cannot find module '../config/config'
+Require stack:
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/index.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/app.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+    at Module._load (node:internal/modules/cjs/loader:981:27)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+2025-02-04 10:46:04 [ERROR]: Error: Cannot find module '../config/config'
+Require stack:
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/index.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/app.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+    at Module._load (node:internal/modules/cjs/loader:981:27)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+2025-02-04 10:48:56 [ERROR]: Error: Cannot find module '../config/config'
+Require stack:
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/index.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/app.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+    at Module._load (node:internal/modules/cjs/loader:981:27)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+2025-02-04 10:49:00 [ERROR]: Error: Cannot find module '../config/config'
+Require stack:
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/index.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/app.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+    at Module._load (node:internal/modules/cjs/loader:981:27)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+2025-02-04 10:49:38 [ERROR]: Error: Cannot find module '../config/config'
+Require stack:
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/index.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/app.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+    at Module._load (node:internal/modules/cjs/loader:981:27)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+2025-02-04 10:50:23 [ERROR]: Error: Cannot find module '../config/config'
+Require stack:
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/index.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/app.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+    at Module._load (node:internal/modules/cjs/loader:981:27)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+2025-02-04 10:50:28 [ERROR]: Error: Cannot find module '../config/config'
+Require stack:
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/index.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/app.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+    at Module._load (node:internal/modules/cjs/loader:981:27)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+2025-02-04 10:52:23 [ERROR]: Error: Cannot find module '../config/config'
+Require stack:
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/index.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/app.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+    at Module._load (node:internal/modules/cjs/loader:981:27)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+2025-02-04 10:52:28 [ERROR]: Error: Cannot find module '../config/config'
+Require stack:
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/index.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/app.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+    at Module._load (node:internal/modules/cjs/loader:981:27)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+2025-02-04 10:53:19 [ERROR]: Error: Cannot find module '../config/config'
+Require stack:
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/index.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/app.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+    at Module._load (node:internal/modules/cjs/loader:981:27)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+2025-02-04 10:53:24 [ERROR]: Error: Cannot find module '../config/config'
+Require stack:
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/index.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/app.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+    at Module._load (node:internal/modules/cjs/loader:981:27)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+2025-02-04 10:54:03 [ERROR]: Error: Cannot find module '../config/config'
+Require stack:
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/index.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/app.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+    at Module._load (node:internal/modules/cjs/loader:981:27)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+2025-02-04 10:54:21 [ERROR]: Error: Cannot find module '../config/config'
+Require stack:
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/index.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/app.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+    at Module._load (node:internal/modules/cjs/loader:981:27)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+2025-02-04 10:55:13 [ERROR]: Error: Cannot find module '../config/config'
+Require stack:
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/index.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/app.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+    at Module._load (node:internal/modules/cjs/loader:981:27)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+2025-02-04 10:55:56 [ERROR]: Error: Cannot find module '../config/config'
+Require stack:
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/index.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/app.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+    at Module._load (node:internal/modules/cjs/loader:981:27)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+2025-02-04 10:56:02 [ERROR]: Error: Cannot find module '../config/config'
+Require stack:
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/index.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/app.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+    at Module._load (node:internal/modules/cjs/loader:981:27)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+2025-02-04 10:56:06 [ERROR]: Error: Cannot find module '../config/config'
+Require stack:
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/index.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/app.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+    at Module._load (node:internal/modules/cjs/loader:981:27)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+2025-02-04 10:56:08 [ERROR]: Error: Cannot find module '../config/config'
+Require stack:
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/index.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/app.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+    at Module._load (node:internal/modules/cjs/loader:981:27)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+2025-02-04 11:03:56 [ERROR]: Error: Cannot find module '../config/config'
+Require stack:
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/index.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/app.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+    at Module._load (node:internal/modules/cjs/loader:981:27)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+2025-02-04 11:04:18 [ERROR]: Error: Cannot find module '../config/config'
+Require stack:
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/index.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/app.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+    at Module._load (node:internal/modules/cjs/loader:981:27)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+2025-02-04 11:04:30 [ERROR]: Error: Cannot find module '../config/config'
+Require stack:
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/index.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/app.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+    at Module._load (node:internal/modules/cjs/loader:981:27)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+2025-02-04 11:05:00 [ERROR]: Error: Cannot find module '../config/config'
+Require stack:
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/index.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/app.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+    at Module._load (node:internal/modules/cjs/loader:981:27)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+2025-02-04 11:06:05 [ERROR]: Error: Cannot find module '../config/config'
+Require stack:
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/index.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/app.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+    at Module._load (node:internal/modules/cjs/loader:981:27)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+2025-02-04 11:06:21 [ERROR]: Error: Cannot find module '../config/config'
+Require stack:
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/index.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/app.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+    at Module._load (node:internal/modules/cjs/loader:981:27)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+2025-02-04 11:06:32 [ERROR]: Error: Cannot find module '../config/config'
+Require stack:
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/index.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/app.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+    at Module._load (node:internal/modules/cjs/loader:981:27)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+2025-02-04 11:07:14 [ERROR]: Error: Cannot find module '../config/config'
+Require stack:
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/index.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/app.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+    at Module._load (node:internal/modules/cjs/loader:981:27)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+2025-02-04 11:07:16 [ERROR]: Error: Cannot find module '../config/config'
+Require stack:
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/index.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/app.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+    at Module._load (node:internal/modules/cjs/loader:981:27)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+2025-02-04 11:07:24 [ERROR]: Error: Cannot find module '../config/config'
+Require stack:
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/index.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/app.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+    at Module._load (node:internal/modules/cjs/loader:981:27)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+2025-02-04 11:07:32 [ERROR]: Error: Cannot find module '../config/config'
+Require stack:
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/index.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/app.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+    at Module._load (node:internal/modules/cjs/loader:981:27)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+2025-02-04 11:09:26 [ERROR]: Error: Cannot find module '../config/config'
+Require stack:
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/index.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/app.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+    at Module._load (node:internal/modules/cjs/loader:981:27)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+2025-02-04 11:09:35 [ERROR]: Error: Cannot find module '../config/config'
+Require stack:
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/index.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/app.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+    at Module._load (node:internal/modules/cjs/loader:981:27)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+2025-02-04 11:09:54 [ERROR]: Error: Cannot find module '../config/config'
+Require stack:
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/index.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/app.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+    at Module._load (node:internal/modules/cjs/loader:981:27)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+2025-02-04 11:10:08 [ERROR]: Error: Cannot find module '../config/config'
+Require stack:
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/index.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/app.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+    at Module._load (node:internal/modules/cjs/loader:981:27)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+2025-02-04 11:10:15 [ERROR]: Error: Cannot find module '../config/config'
+Require stack:
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/index.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/app.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+    at Module._load (node:internal/modules/cjs/loader:981:27)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+2025-02-04 11:10:20 [ERROR]: Error: Cannot find module '../config/config'
+Require stack:
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/index.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/app.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+    at Module._load (node:internal/modules/cjs/loader:981:27)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+2025-02-04 11:10:28 [ERROR]: Error: Cannot find module '../config/config'
+Require stack:
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/index.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/app.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+    at Module._load (node:internal/modules/cjs/loader:981:27)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+2025-02-04 11:10:44 [ERROR]: Error: Cannot find module '../config/config'
+Require stack:
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/index.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/app.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+    at Module._load (node:internal/modules/cjs/loader:981:27)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+2025-02-04 11:10:54 [ERROR]: Error: Cannot find module '../config/config'
+Require stack:
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/index.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/app.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+    at Module._load (node:internal/modules/cjs/loader:981:27)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+2025-02-04 11:11:01 [ERROR]: Error: Cannot find module '../config/config'
+Require stack:
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/index.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/app.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+    at Module._load (node:internal/modules/cjs/loader:981:27)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+2025-02-04 11:11:23 [ERROR]: Error: Cannot find module '../config/config'
+Require stack:
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/index.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/app.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+    at Module._load (node:internal/modules/cjs/loader:981:27)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+2025-02-04 11:11:32 [ERROR]: Error: Cannot find module '../config/config'
+Require stack:
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/index.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/app.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+    at Module._load (node:internal/modules/cjs/loader:981:27)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+2025-02-04 11:12:13 [ERROR]: Error: Cannot find module '../config/config'
+Require stack:
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/index.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/app.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+    at Module._load (node:internal/modules/cjs/loader:981:27)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+2025-02-04 11:12:18 [ERROR]: Error: Cannot find module '../config/config'
+Require stack:
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/index.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/app.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+    at Module._load (node:internal/modules/cjs/loader:981:27)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+2025-02-04 11:12:21 [ERROR]: Error: Cannot find module '../config/config'
+Require stack:
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/index.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/app.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+    at Module._load (node:internal/modules/cjs/loader:981:27)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+2025-02-04 11:12:30 [ERROR]: Error: Cannot find module '../config/config'
+Require stack:
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/index.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/app.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+    at Module._load (node:internal/modules/cjs/loader:981:27)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+2025-02-04 11:13:01 [ERROR]: Error: Cannot find module '../config/config'
+Require stack:
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/index.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/app.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+    at Module._load (node:internal/modules/cjs/loader:981:27)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+2025-02-04 11:13:10 [ERROR]: Error: Cannot find module '../config/config'
+Require stack:
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/index.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/app.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+    at Module._load (node:internal/modules/cjs/loader:981:27)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+2025-02-04 11:13:15 [ERROR]: Error: Cannot find module '../config/config'
+Require stack:
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/index.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/app.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+    at Module._load (node:internal/modules/cjs/loader:981:27)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+2025-02-04 11:13:20 [ERROR]: Error: Cannot find module '../config/config'
+Require stack:
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/index.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/app.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+    at Module._load (node:internal/modules/cjs/loader:981:27)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+2025-02-04 11:13:30 [ERROR]: Error: Cannot find module '../config/config'
+Require stack:
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/index.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/app.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+    at Module._load (node:internal/modules/cjs/loader:981:27)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+2025-02-04 11:14:03 [ERROR]: Error: Cannot find module '../config/config'
+Require stack:
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/index.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/app.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+    at Module._load (node:internal/modules/cjs/loader:981:27)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+2025-02-04 11:14:07 [ERROR]: Error: Cannot find module '../config/config'
+Require stack:
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/index.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/app.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+    at Module._load (node:internal/modules/cjs/loader:981:27)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+2025-02-04 11:14:16 [ERROR]: Error: Cannot find module '../config/config'
+Require stack:
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/index.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/app.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+    at Module._load (node:internal/modules/cjs/loader:981:27)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+2025-02-04 11:15:15 [ERROR]: Error: Cannot find module '../config/config'
+Require stack:
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/index.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/app.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+    at Module._load (node:internal/modules/cjs/loader:981:27)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+2025-02-04 11:15:27 [ERROR]: Error: Cannot find module '../config/config'
+Require stack:
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/index.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/app.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+    at Module._load (node:internal/modules/cjs/loader:981:27)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+2025-02-04 11:15:40 [ERROR]: Error: Cannot find module '../config/config'
+Require stack:
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/index.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/app.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+    at Module._load (node:internal/modules/cjs/loader:981:27)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+2025-02-04 11:15:43 [ERROR]: Error: Cannot find module '../config/config'
+Require stack:
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/index.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/app.js
+- /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+    at Module._load (node:internal/modules/cjs/loader:981:27)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+2025-02-04 14:21:36 [ERROR]: TypeError: Joi.string(...).phoneNumber is not a function
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/middleware/validation.middleware.js:8:25)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js:4:24)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+2025-02-04 14:21:54 [ERROR]: TypeError: Joi.string(...).phoneNumber is not a function
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/middleware/validation.middleware.js:8:25)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js:4:24)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+2025-02-04 15:05:18 [ERROR]: Error: Route.post() requires a callback function but got a [object Object]
+    at Route.<computed> [as post] (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/express/lib/router/route.js:216:15)
+    at proto.<computed> [as post] (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/express/lib/router/index.js:521:19)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js:7:8)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/index.js:3:20)
+2025-02-04 15:10:14 [ERROR]: Error: Route.post() requires a callback function but got a [object Object]
+    at Route.<computed> [as post] (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/express/lib/router/route.js:216:15)
+    at proto.<computed> [as post] (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/express/lib/router/index.js:521:19)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js:7:8)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/index.js:3:20)
+2025-02-04 15:10:39 [ERROR]: Error: Route.post() requires a callback function but got a [object Object]
+    at Route.<computed> [as post] (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/express/lib/router/route.js:216:15)
+    at proto.<computed> [as post] (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/express/lib/router/index.js:521:19)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js:7:8)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/index.js:3:20)
+2025-02-04 15:11:27 [ERROR]: Error: Route.post() requires a callback function but got a [object Object]
+    at Route.<computed> [as post] (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/express/lib/router/route.js:216:15)
+    at proto.<computed> [as post] (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/express/lib/router/index.js:521:19)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js:7:8)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/index.js:3:20)
+2025-02-04 15:12:24 [ERROR]: Error: Route.post() requires a callback function but got a [object Object]
+    at Route.<computed> [as post] (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/express/lib/router/route.js:216:15)
+    at proto.<computed> [as post] (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/express/lib/router/index.js:521:19)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js:7:8)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/index.js:3:20)
+2025-02-04 15:12:43 [ERROR]: Error: Route.post() requires a callback function but got a [object Object]
+    at Route.<computed> [as post] (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/express/lib/router/route.js:216:15)
+    at proto.<computed> [as post] (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/express/lib/router/index.js:521:19)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js:7:8)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/index.js:3:20)
+2025-02-04 15:13:49 [ERROR]: Error: Route.post() requires a callback function but got a [object Object]
+    at Route.<computed> [as post] (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/express/lib/router/route.js:216:15)
+    at proto.<computed> [as post] (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/express/lib/router/index.js:521:19)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js:7:8)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/index.js:3:20)
+2025-02-04 15:14:32 [ERROR]: Error: Route.post() requires a callback function but got a [object Object]
+    at Route.<computed> [as post] (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/express/lib/router/route.js:216:15)
+    at proto.<computed> [as post] (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/express/lib/router/index.js:521:19)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js:7:8)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/index.js:3:20)
+2025-02-04 15:14:38 [ERROR]: ReferenceError: validateSignup is not defined
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js:7:24)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/index.js:3:20)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+2025-02-04 15:14:47 [ERROR]: ReferenceError: validateSignup is not defined
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js:7:24)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/index.js:3:20)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+2025-02-04 15:14:49 [ERROR]: Error: Route.post() requires a callback function but got a [object Object]
+    at Route.<computed> [as post] (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/express/lib/router/route.js:216:15)
+    at proto.<computed> [as post] (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/express/lib/router/index.js:521:19)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js:7:8)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/index.js:3:20)
+2025-02-04 15:15:02 [ERROR]: Error: Route.post() requires a callback function but got a [object Object]
+    at Route.<computed> [as post] (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/express/lib/router/route.js:216:15)
+    at proto.<computed> [as post] (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/express/lib/router/index.js:521:19)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js:7:8)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/index.js:3:20)
+2025-02-04 15:16:08 [ERROR]: Error: Route.post() requires a callback function but got a [object Object]
+    at Route.<computed> [as post] (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/express/lib/router/route.js:216:15)
+    at proto.<computed> [as post] (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/express/lib/router/index.js:521:19)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js:7:8)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/index.js:3:20)
+2025-02-04 15:16:10 [ERROR]: Error: Route.post() requires a callback function but got a [object Object]
+    at Route.<computed> [as post] (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/express/lib/router/route.js:216:15)
+    at proto.<computed> [as post] (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/express/lib/router/index.js:521:19)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js:7:8)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/index.js:3:20)
+2025-02-04 15:18:15 [ERROR]: Error: Route.post() requires a callback function but got a [object Object]
+    at Route.<computed> [as post] (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/express/lib/router/route.js:216:15)
+    at proto.<computed> [as post] (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/express/lib/router/index.js:521:19)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js:7:8)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/index.js:3:20)
+2025-02-04 15:21:26 [ERROR]: Error: Route.post() requires a callback function but got a [object Object]
+    at Route.<computed> [as post] (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/express/lib/router/route.js:216:15)
+    at proto.<computed> [as post] (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/express/lib/router/index.js:521:19)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js:7:8)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/index.js:3:20)
+2025-02-04 15:21:43 [ERROR]: /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/middleware/validation.middleware.js:34
+const validateSignup = (req, res, next) => {
+      ^
+
+SyntaxError: Identifier 'validateSignup' has already been declared
+    at internalCompileFunction (node:internal/vm:76:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1283:20)
+    at Module._compile (node:internal/modules/cjs/loader:1328:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js:4:24)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+2025-02-04 15:21:59 [ERROR]: Error: Route.post() requires a callback function but got a [object Object]
+    at Route.<computed> [as post] (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/express/lib/router/route.js:216:15)
+    at proto.<computed> [as post] (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/express/lib/router/index.js:521:19)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js:7:8)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/index.js:3:20)
+2025-02-04 15:22:11 [ERROR]: Error: Route.post() requires a callback function but got a [object Object]
+    at Route.<computed> [as post] (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/express/lib/router/route.js:216:15)
+    at proto.<computed> [as post] (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/express/lib/router/index.js:521:19)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js:7:8)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/index.js:3:20)
+2025-02-04 15:59:48 [ERROR]: Error: Route.post() requires a callback function but got a [object Object]
+    at Route.<computed> [as post] (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/express/lib/router/route.js:216:15)
+    at proto.<computed> [as post] (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/express/lib/router/index.js:521:19)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js:7:8)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/index.js:3:20)
+2025-02-04 16:22:53 [ERROR]: /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js:1
+import crypto from 'crypto';
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at internalCompileFunction (node:internal/vm:76:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1283:20)
+    at Module._compile (node:internal/modules/cjs/loader:1328:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js:6:20)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+2025-02-04 16:23:02 [ERROR]: /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js:1
+import crypto from 'crypto';
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at internalCompileFunction (node:internal/vm:76:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1283:20)
+    at Module._compile (node:internal/modules/cjs/loader:1328:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js:6:20)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+2025-02-04 16:23:58 [ERROR]: /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js:1
+import crypto from 'crypto';
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at internalCompileFunction (node:internal/vm:76:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1283:20)
+    at Module._compile (node:internal/modules/cjs/loader:1328:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js:6:20)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+2025-02-04 16:24:08 [ERROR]: /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js:1
+import crypto from 'crypto';
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at internalCompileFunction (node:internal/vm:76:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1283:20)
+    at Module._compile (node:internal/modules/cjs/loader:1328:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js:6:20)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+2025-02-04 16:24:15 [ERROR]: /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js:1
+import crypto from 'crypto';
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at internalCompileFunction (node:internal/vm:76:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1283:20)
+    at Module._compile (node:internal/modules/cjs/loader:1328:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js:6:20)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+2025-02-04 16:24:22 [ERROR]: /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.services.js:1
+import crypto from 'crypto';
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at internalCompileFunction (node:internal/vm:76:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1283:20)
+    at Module._compile (node:internal/modules/cjs/loader:1328:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js:6:20)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+2025-02-04 16:30:01 [ERROR]: /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.utils.js:1
+import crypto from 'crypto';
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at internalCompileFunction (node:internal/vm:76:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1283:20)
+    at Module._compile (node:internal/modules/cjs/loader:1328:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js:6:33)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+2025-02-04 16:30:12 [ERROR]: /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.utils.js:1
+import crypto from 'crypto';
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at internalCompileFunction (node:internal/vm:76:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1283:20)
+    at Module._compile (node:internal/modules/cjs/loader:1328:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js:6:34)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+2025-02-04 16:31:14 [ERROR]: /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.utils.js:1
+import crypto from 'crypto';
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at internalCompileFunction (node:internal/vm:76:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1283:20)
+    at Module._compile (node:internal/modules/cjs/loader:1328:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js:6:34)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+2025-02-04 16:31:21 [ERROR]: /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.utils.js:1
+import crypto from 'crypto';
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at internalCompileFunction (node:internal/vm:76:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1283:20)
+    at Module._compile (node:internal/modules/cjs/loader:1328:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js:6:34)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+2025-02-04 16:31:42 [ERROR]: /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.utils.js:1
+import crypto from 'crypto';
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at internalCompileFunction (node:internal/vm:76:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1283:20)
+    at Module._compile (node:internal/modules/cjs/loader:1328:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js:6:34)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+2025-02-04 16:32:16 [ERROR]: /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.utils.js:1
+import crypto from 'crypto';
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at internalCompileFunction (node:internal/vm:76:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1283:20)
+    at Module._compile (node:internal/modules/cjs/loader:1328:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js:6:34)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+2025-02-04 16:32:18 [ERROR]: /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.utils.js:1
+import crypto from 'crypto';
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at internalCompileFunction (node:internal/vm:76:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1283:20)
+    at Module._compile (node:internal/modules/cjs/loader:1328:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js:6:34)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+2025-02-04 16:32:32 [ERROR]: /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/middleware/rateLimiter.middleware.js:5
+export const rateLimiter = async (phone) => {
+^^^^^^
+
+SyntaxError: Unexpected token 'export'
+    at internalCompileFunction (node:internal/vm:76:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1283:20)
+    at Module._compile (node:internal/modules/cjs/loader:1328:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js:7:25)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+2025-02-04 16:32:34 [ERROR]: /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.utils.js:1
+import crypto from 'crypto';
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at internalCompileFunction (node:internal/vm:76:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1283:20)
+    at Module._compile (node:internal/modules/cjs/loader:1328:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js:6:34)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+2025-02-04 16:32:37 [ERROR]: /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.utils.js:1
+import crypto from 'crypto';
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at internalCompileFunction (node:internal/vm:76:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1283:20)
+    at Module._compile (node:internal/modules/cjs/loader:1328:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js:6:34)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+2025-02-04 16:32:39 [ERROR]: /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.utils.js:1
+import crypto from 'crypto';
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at internalCompileFunction (node:internal/vm:76:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1283:20)
+    at Module._compile (node:internal/modules/cjs/loader:1328:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js:6:34)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+2025-02-04 16:33:14 [ERROR]: /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.utils.js:7
+export const generateOTP = (length = 6) => {
+^^^^^^
+
+SyntaxError: Unexpected token 'export'
+    at internalCompileFunction (node:internal/vm:76:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1283:20)
+    at Module._compile (node:internal/modules/cjs/loader:1328:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js:6:34)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+2025-02-04 16:33:27 [ERROR]: /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.utils.js:7
+export const generateOTP = (length = 6) => {
+^^^^^^
+
+SyntaxError: Unexpected token 'export'
+    at internalCompileFunction (node:internal/vm:76:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1283:20)
+    at Module._compile (node:internal/modules/cjs/loader:1328:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js:6:34)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+2025-02-04 16:33:45 [ERROR]: /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.utils.js:7
+export const generateOTP = (length = 6) => {
+^^^^^^
+
+SyntaxError: Unexpected token 'export'
+    at internalCompileFunction (node:internal/vm:76:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1283:20)
+    at Module._compile (node:internal/modules/cjs/loader:1328:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js:6:34)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+2025-02-04 16:34:46 [ERROR]: /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.utils.js:7
+export const generateOTP = (length = 6) => {
+^^^^^^
+
+SyntaxError: Unexpected token 'export'
+    at internalCompileFunction (node:internal/vm:76:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1283:20)
+    at Module._compile (node:internal/modules/cjs/loader:1328:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js:6:34)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+2025-02-04 16:36:14 [ERROR]: /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.utils.js:7
+export const generateOTP = (length = 6) => {
+^^^^^^
+
+SyntaxError: Unexpected token 'export'
+    at internalCompileFunction (node:internal/vm:76:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1283:20)
+    at Module._compile (node:internal/modules/cjs/loader:1328:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js:6:34)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+2025-02-04 16:36:16 [ERROR]: /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.utils.js:7
+export const generateOTP = (length = 6) => {
+^^^^^^
+
+SyntaxError: Unexpected token 'export'
+    at internalCompileFunction (node:internal/vm:76:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1283:20)
+    at Module._compile (node:internal/modules/cjs/loader:1328:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js:6:34)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+2025-02-04 16:37:28 [ERROR]: /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.utils.js:7
+export const generateOTP = (length = 6) => {
+^^^^^^
+
+SyntaxError: Unexpected token 'export'
+    at internalCompileFunction (node:internal/vm:76:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1283:20)
+    at Module._compile (node:internal/modules/cjs/loader:1328:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js:6:34)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+2025-02-04 16:37:31 [ERROR]: /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.utils.js:7
+export const generateOTP = (length = 6) => {
+^^^^^^
+
+SyntaxError: Unexpected token 'export'
+    at internalCompileFunction (node:internal/vm:76:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1283:20)
+    at Module._compile (node:internal/modules/cjs/loader:1328:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js:6:34)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+2025-02-04 16:37:59 [ERROR]: /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.utils.js:7
+export const generateOTP = (length = 6) => {
+^^^^^^
+
+SyntaxError: Unexpected token 'export'
+    at internalCompileFunction (node:internal/vm:76:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1283:20)
+    at Module._compile (node:internal/modules/cjs/loader:1328:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js:6:34)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+2025-02-04 16:38:02 [ERROR]: /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.utils.js:7
+export const generateOTP = (length = 6) => {
+^^^^^^
+
+SyntaxError: Unexpected token 'export'
+    at internalCompileFunction (node:internal/vm:76:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1283:20)
+    at Module._compile (node:internal/modules/cjs/loader:1328:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js:6:34)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+2025-02-04 16:38:26 [ERROR]: ReferenceError: signup is not defined
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js:328:5)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js:2:24)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+2025-02-04 16:38:36 [ERROR]: Error: Route.post() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as post] (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/express/lib/router/route.js:216:15)
+    at proto.<computed> [as post] (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/express/lib/router/index.js:521:19)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js:7:8)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/index.js:3:20)
+2025-02-04 16:39:00 [ERROR]: Error: Route.post() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as post] (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/express/lib/router/route.js:216:15)
+    at proto.<computed> [as post] (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/express/lib/router/index.js:521:19)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js:7:8)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/index.js:3:20)
+2025-02-04 16:39:51 [ERROR]: Error: Route.post() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as post] (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/express/lib/router/route.js:216:15)
+    at proto.<computed> [as post] (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/express/lib/router/index.js:521:19)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js:11:8)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/index.js:3:20)
+2025-02-04 16:40:27 [ERROR]: ReferenceError: signup is not defined
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js:328:5)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js:2:24)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+2025-02-04 16:40:33 [ERROR]: ReferenceError: signup is not defined
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js:328:5)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js:2:24)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+2025-02-04 16:40:46 [ERROR]: Error: Route.post() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as post] (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/express/lib/router/route.js:216:15)
+    at proto.<computed> [as post] (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/express/lib/router/index.js:521:19)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js:7:8)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/index.js:3:20)
+2025-02-04 16:41:00 [ERROR]: /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.utils.js:7
+export const generateOTP = (length = 6) => {
+^^^^^^
+
+SyntaxError: Unexpected token 'export'
+    at internalCompileFunction (node:internal/vm:76:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1283:20)
+    at Module._compile (node:internal/modules/cjs/loader:1328:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js:6:34)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+2025-02-04 16:41:19 [ERROR]: /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.utils.js:7
+export const generateOTP = (length = 6) => {
+^^^^^^
+
+SyntaxError: Unexpected token 'export'
+    at internalCompileFunction (node:internal/vm:76:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1283:20)
+    at Module._compile (node:internal/modules/cjs/loader:1328:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js:6:34)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+2025-02-04 16:41:23 [ERROR]: /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/middleware/rateLimiter.middleware.js:5
+export const rateLimiter = async (phone) => {
+^^^^^^
+
+SyntaxError: Unexpected token 'export'
+    at internalCompileFunction (node:internal/vm:76:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1283:20)
+    at Module._compile (node:internal/modules/cjs/loader:1328:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js:7:25)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+2025-02-04 16:43:46 [ERROR]: /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.utils.js:7
+export const generateOTP = (length = 6) => {
+^^^^^^
+
+SyntaxError: Unexpected token 'export'
+    at internalCompileFunction (node:internal/vm:76:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1283:20)
+    at Module._compile (node:internal/modules/cjs/loader:1328:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js:6:25)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+2025-02-04 16:43:49 [ERROR]: /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.utils.js:7
+export const generateOTP = (length = 6) => {
+^^^^^^
+
+SyntaxError: Unexpected token 'export'
+    at internalCompileFunction (node:internal/vm:76:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1283:20)
+    at Module._compile (node:internal/modules/cjs/loader:1328:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js:6:34)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+2025-02-04 16:43:51 [ERROR]: /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.utils.js:7
+export const generateOTP = (length = 6) => {
+^^^^^^
+
+SyntaxError: Unexpected token 'export'
+    at internalCompileFunction (node:internal/vm:76:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1283:20)
+    at Module._compile (node:internal/modules/cjs/loader:1328:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js:6:34)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+2025-02-04 16:44:34 [ERROR]: /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.utils.js:26
+export.module = { generateOTP, sendOTP }
+^^^^^^
+
+SyntaxError: Unexpected token 'export'
+    at internalCompileFunction (node:internal/vm:76:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1283:20)
+    at Module._compile (node:internal/modules/cjs/loader:1328:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js:6:34)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+2025-02-04 16:44:39 [ERROR]: /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/services/sms/sms.utils.js:26
+export.module = { generateOTP, sendOTP }
+^^^^^^
+
+SyntaxError: Unexpected token 'export'
+    at internalCompileFunction (node:internal/vm:76:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1283:20)
+    at Module._compile (node:internal/modules/cjs/loader:1328:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js:6:34)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+2025-02-04 16:45:02 [ERROR]: /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/middleware/rateLimiter.middleware.js:5
+export const rateLimiter = async (phone) => {
+^^^^^^
+
+SyntaxError: Unexpected token 'export'
+    at internalCompileFunction (node:internal/vm:76:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1283:20)
+    at Module._compile (node:internal/modules/cjs/loader:1328:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js:7:25)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+2025-02-04 16:45:21 [ERROR]: /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/middleware/rateLimiter.middleware.js:5
+export const rateLimiter = async (phone) => {
+^^^^^^
+
+SyntaxError: Unexpected token 'export'
+    at internalCompileFunction (node:internal/vm:76:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1283:20)
+    at Module._compile (node:internal/modules/cjs/loader:1328:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js:7:25)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+2025-02-04 16:45:23 [ERROR]: /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/middleware/rateLimiter.middleware.js:5
+export const rateLimiter = async (phone) => {
+^^^^^^
+
+SyntaxError: Unexpected token 'export'
+    at internalCompileFunction (node:internal/vm:76:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1283:20)
+    at Module._compile (node:internal/modules/cjs/loader:1328:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js:7:25)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+2025-02-04 16:45:33 [ERROR]: /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/middleware/rateLimiter.middleware.js:5
+export const rateLimiter = async (phone) => {
+^^^^^^
+
+SyntaxError: Unexpected token 'export'
+    at internalCompileFunction (node:internal/vm:76:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1283:20)
+    at Module._compile (node:internal/modules/cjs/loader:1328:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js:7:25)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+2025-02-04 16:45:45 [ERROR]: /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/middleware/rateLimiter.middleware.js:5
+export const rateLimiter = async (phone) => {
+^^^^^^
+
+SyntaxError: Unexpected token 'export'
+    at internalCompileFunction (node:internal/vm:76:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1283:20)
+    at Module._compile (node:internal/modules/cjs/loader:1328:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js:7:25)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+2025-02-04 16:46:05 [ERROR]: /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/middleware/rateLimiter.middleware.js:5
+export const rateLimiter = async (phone) => {
+^^^^^^
+
+SyntaxError: Unexpected token 'export'
+    at internalCompileFunction (node:internal/vm:76:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1283:20)
+    at Module._compile (node:internal/modules/cjs/loader:1328:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js:7:25)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+2025-02-04 16:46:43 [ERROR]: /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/middleware/rateLimiter.middleware.js:5
+export const rateLimiter = async (phone) => {
+^^^^^^
+
+SyntaxError: Unexpected token 'export'
+    at internalCompileFunction (node:internal/vm:76:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1283:20)
+    at Module._compile (node:internal/modules/cjs/loader:1328:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js:7:23)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+2025-02-06 09:05:25 [ERROR]: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:405:5)
+    at ServerResponse.setHeader (node:_http_outgoing:648:11)
+    at ServerResponse.header (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/express/lib/response.js:794:10)
+    at ServerResponse.send (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/express/lib/response.js:174:12)
+    at ServerResponse.json (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/express/lib/response.js:278:15)
+    at signup (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js:99:32)
+2025-02-06 09:26:27 [ERROR]: ReferenceError: resendOTP is not defined
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js:375:5)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/routes/auth.routes.js:2:24)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+2025-02-06 11:02:15 [ERROR]: /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/middleware/rateLimiter.middleware.js:32
+            const remainingTime = lastOtpDate.toISOString(); /
+                  ^
+
+SyntaxError: Identifier 'remainingTime' has already been declared
+    at internalCompileFunction (node:internal/vm:76:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1283:20)
+    at Module._compile (node:internal/modules/cjs/loader:1328:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js:7:25)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+2025-02-06 11:03:40 [ERROR]: /home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/middleware/rateLimiter.middleware.js:31
+            const remainingTime = lastOtpDate.toISOString(); /
+                                                             ^
+
+SyntaxError: Invalid regular expression: missing /
+    at internalCompileFunction (node:internal/vm:76:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1283:20)
+    at Module._compile (node:internal/modules/cjs/loader:1328:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js:7:25)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+2025-02-14 08:28:58 [ERROR]: Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+    at listenInCluster (node:net:1994:12)
+    at Server.listen (node:net:2099:7)
+    at Function.listen (C:\Tarun's  Room\bp\bp\node_modules\express\lib\application.js:635:24)
+    at start (C:\Tarun's  Room\bp\bp\src\app.js:61:20)
+    at C:\Tarun's  Room\bp\bp\src\server.js:25:20

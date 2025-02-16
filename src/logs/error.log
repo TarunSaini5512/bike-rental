@@ -1,0 +1,9 @@
+2025-02-03 10:48:10 [ERROR]: ReferenceError: username is not defined
+    at signup (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js:77:29)
+2025-02-06 09:05:25 [ERROR]: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:405:5)
+    at ServerResponse.setHeader (node:_http_outgoing:648:11)
+    at ServerResponse.header (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/express/lib/response.js:794:10)
+    at ServerResponse.send (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/express/lib/response.js:174:12)
+    at ServerResponse.json (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/node_modules/express/lib/response.js:278:15)
+    at signup (/home/tpss/public_html/drive/projects/Laundry/git/thelaundrycompany/backend/src/controller/auth.controller.js:99:32)
