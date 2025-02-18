@@ -1,5 +1,5 @@
 import React from "react";
-import { Layout, Menu, Button, Typography } from "antd";
+import { Button, Layout, Menu, Typography } from "antd";
 import {
     DashboardOutlined,
     UserOutlined,
@@ -9,27 +9,28 @@ import {
     CustomerServiceOutlined,
     LogoutOutlined,
 } from "@ant-design/icons";
-import useAuthStore from "../store/authStore";
+import { useNavigate } from "react-router-dom";
+import useAuthStore from "../../store/authStore";
 
-const { Header, Content, Sider } = Layout;
+const { Sider, Header } = Layout;
 const { Title } = Typography;
 
-const Dashboard = () => {
+const MainLayout = ({ children }) => {
+    const navigate = useNavigate();
     const { logout } = useAuthStore();
 
     return (
         <Layout style={{ minHeight: "100vh" }}>
-            {/* Sidebar */}
             <Sider width={250} style={{ background: "#fff" }}>
                 <div style={{ padding: 20, textAlign: "center" }}>
                     <Title level={3}>Dashboard</Title>
                 </div>
                 <Menu mode="inline" defaultSelectedKeys={["dashboard"]}>
-                    <Menu.Item key="dashboard" icon={<DashboardOutlined />}>
+                    <Menu.Item key="dashboard" onClick={() => navigate("/dashboard/dhobi")} icon={<DashboardOutlined />}>
                         Dashboard
                     </Menu.Item>
                     <Menu.SubMenu key="profile" icon={<UserOutlined />} title="Profile Management">
-                        <Menu.Item key="edit-profile">Edit Details</Menu.Item>
+                        <Menu.Item key="edit-profile" onClick={() => navigate("/dashboard/dhobi/profile-management/edit-details")}>Edit Details</Menu.Item>
                         <Menu.Item key="upload-docs">Upload Documents</Menu.Item>
                         <Menu.Item key="service-locality">Service Locality</Menu.Item>
                     </Menu.SubMenu>
@@ -48,21 +49,16 @@ const Dashboard = () => {
                     </Menu.Item>
                 </Menu>
             </Sider>
-
-            {/* Main Content */}
             <Layout>
-                <Header style={{ background: "#fff", padding: "0 20px", display: "flex", justifyContent: "flex-end" }}>
+                <Header style={{ background: "#fff", padding: "10px 20px", display: "flex", justifyContent: "flex-end" }}>
                     <Button type="primary" icon={<LogoutOutlined />} onClick={logout}>
                         Logout
                     </Button>
                 </Header>
-                <Content style={{ margin: 20, background: "#fff", padding: 20, borderRadius: 8 }}>
-                    <Title level={4}>Welcome to Your Dashboard</Title>
-                    <p>Select a menu item to manage your account.</p>
-                </Content>
+                {children}
             </Layout>
         </Layout>
     );
 };
 
-export default Dashboard;
+export default MainLayout;

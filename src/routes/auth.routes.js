@@ -10,6 +10,8 @@ router.post("/verify-otp", AuthController.verifyOtp);
 
 router.post("/signin", AuthController.signin);
 
+router.post("/login", AuthController.login);
+
 router.post("/resend-otp", AuthController.resendOtp);
 
 router.post("/email-validity-checks", AuthController.emailValidityChecks);

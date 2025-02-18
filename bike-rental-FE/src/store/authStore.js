@@ -7,7 +7,7 @@ const useAuthStore = create((set) => ({
 
     login: async (values) => {
         try {
-            const { data } = await axios.post("http://localhost:3000/auth/signin", values);
+            const { data } = await axios.post("http://localhost:3000/auth/login", values);
             localStorage.setItem("token", data.token);
             set({ token: data.token });
             return { success: true };
@@ -17,9 +17,8 @@ const useAuthStore = create((set) => ({
     },
 
     signup: async (values) => {
-        const {password, ...rest} = values
         try {
-            await axios.post("http://localhost:3000/auth/signup", { ...rest, name: "Test", role: "USER" });
+            await axios.post("http://localhost:3000/auth/signup", { ...values, name: "Test", role: "DHOBI" });
             return { success: true };
         } catch (error) {
             return { success: false, message: error.response?.data?.error || "Signup failed" };
@@ -32,6 +31,15 @@ const useAuthStore = create((set) => ({
             return { success: true };
         } catch (error) {
             return { success: false, message: error.response?.data?.error || "OTP verification failed" };
+        }
+    },
+
+    resendOtp: async (values) => {
+        try {
+            await axios.post("http://localhost:3000/auth/resend-otp", values);
+            return { success: true };
+        } catch (error) {
+            return { success: false, message: error.response?.data?.error || "OTP resending failed" };
         }
     },
 

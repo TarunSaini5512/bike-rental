@@ -39,13 +39,15 @@ const validateRequest = (schema, abortEarly = false) => (req, res, next) => {
 
 // Updated schemas with better role validation
 const signupSchema = Joi.object({
-    name: Joi.string().trim().min(2).required(),
+    name: Joi.string().trim().min(2),
 
-    role: Joi.string().valid("USER").required(),
+    role: Joi.string().trim().required(),
 
     email: Joi.string().email().lowercase().required(),
 
     phone: Joi.string().required(),
+
+    password: Joi.string().trim().required(),
 });
 
 const otpSchema = Joi.object({
